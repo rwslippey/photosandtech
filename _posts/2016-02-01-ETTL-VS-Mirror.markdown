@@ -6,8 +6,8 @@ excerpt: As I walked through the venue I was greeted by a complete wall of mirro
 category: Learning
 tags: flash, ttl
 image:
-  title: Canon-430EXII-Flash-25px.JPG
-  thumb: Canon-430EXII-Flash-25px.JPG
+  title: Canon-430EXII-Flash.JPG
+  thumb: Canon-430EXII-Flash.JPG
 comments: true
 categories:
   - photography
