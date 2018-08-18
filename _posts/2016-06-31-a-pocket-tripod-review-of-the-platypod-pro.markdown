@@ -37,7 +37,7 @@ The Platypod Pro is such a simple piece of gear, I find myself almost dumb found
 ### First impression
 This thing is a tank! The plate is solid, there is nothing else that can be said about this. On the Platypod Pro website they say "The Platypod Pro™ is constructed of a 4mm thick rigid plate of aircraft grade aluminum measuring 3x5." Enough said there. I will say this though, it doesn't feel aluminum to me at all, it feels solid yet still very light weight.<br/><br/>
 
-![Platypod Pro Deluxe Kit]({{ site.urlimg }}platypod-pro-deliuxe-kit.jpg)
+![Platypod Pro Deluxe Kit]({{ site.urlimg }}platypod-pro-deluxe-kit.jpg)
 
 ### What's included with the Platypod Pro?
 Included with my kit was the previously discussed plate, 3 spikes, 1/4 inch to 3/8 inch spigot adapter. The kit also includes a very nice, expandable, carry case and carabiner to clip onto your camera bag. The bag appears very well made and to my surprise it flips out to double it's size, enabling you to fit not only the Platypod and all of it's accessories but also a ball head.
