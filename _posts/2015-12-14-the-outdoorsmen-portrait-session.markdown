@@ -52,10 +52,10 @@ I probably could have lightened the load, but not being sure what I was getting 
 
 
 Checkout some the images from our fishing sessions:
+![Portrait]({{ site.urlimg }}outdoors-portrait-001.jpg)
+![Portrait]({{ site.urlimg }}outdoors-portrait-002.jpg)
+![Portrait]({{ site.urlimg }}outdoors-portrait-003.jpg)
+![Portrait]({{ site.urlimg }}outdoors-portrait-004.jpg)
 
-[Portrait]({{ site.urlimg }}outdoors-portrait-001.jpg)
-<img src="{{ site.imgcdn }}outdoors-portrait-002.jpg" width="800px">
-<img src="{{ site.imgcdn }}outdoors-portrait-003.jpg" width="800px">
-<img src="{{ site.imgcdn }}outdoors-portrait-004.jpg" width="800px">
 
 Your turn, tell me what you think and any experiences you've had with off-the-beaten-path shoots.
