@@ -25,7 +25,7 @@ Checkout the [a href="http://www.Platypodpro.com]{Platypod Pro Website!}
 
 I have to admit, when I first heard about the Platypod Pro a few months ago, I didn't think it would be of much use to me, but about 2 months ago while out for a "photo hike" with my wife, I found myself using rocks to prop my camera and lens up to take slow shutter shots of a small stream.
 
-<img src="canon-onrocks.jpg" width="800px">
+![Canon 5D on Rocks]({{ site.urlimg }}canon-onrocks.jpg)
 
 
 Truth be told, my rock method worked rather well. I was able to get a few nice shots at slower shutter speeds, although bumping the camera a time or two didn't help matters. Not having a cable release was probably also another issue as well. All in all it did work rather well, but it would have been nice to have more flexibility. Enter the <a href="http://www.PlatyPodPro.com" target="_blank">Platypod</a>!
@@ -37,8 +37,7 @@ The Platypod Pro is such a simple piece of gear, I find myself almost dumb found
 ### First impression
 This thing is a tank! The plate is solid, there is nothing else that can be said about this. On the Platypod Pro website they say "The Platypod Pro™ is constructed of a 4mm thick rigid plate of aircraft grade aluminum measuring 3x5." Enough said there. I will say this though, it doesn't feel aluminum to me at all, it feels solid yet still very light weight.<br/><br/>
 
-<img src="platypod-pro-deluxe-kit.jpg" width="800px">
-
+![Platypod Pro Deluxe Kit]({{ site.urlimg }}platypod-pro-deliuxe-kit.jpg)
 
 ### What's included with the Platypod Pro?
 Included with my kit was the previously discussed plate, 3 spikes, 1/4 inch to 3/8 inch spigot adapter. The kit also includes a very nice, expandable, carry case and carabiner to clip onto your camera bag. The bag appears very well made and to my surprise it flips out to double it's size, enabling you to fit not only the Platypod and all of it's accessories but also a ball head.
@@ -52,8 +51,8 @@ The other holes in the Platypod are not threaded and this allows you to mount th
 
 One thing to keep in mind is that to ensure weight is centered over the plate properly, you'll want to ensure the lens of your camera is pointed down the plate, keeping it balanced. This is a simple task with all of the adjustable screws previously mentioned.
 
-<img src="platypod-with-ballhead.jpg" width="800px">
 
+![Platypod With Ballhead]({{ site.urlimg }}platypod-with-ballhead.jpg)
 
 ### Platypod Pro Field Test
 So not to waste any time, I decided to take to the field with my new tripod. I did take my regular tripod along with me. My destination was a easy level hike through Brandywine Creek State Park in Northern Delaware. I usually don't stick to the primary trails when hiking around Brandywine Creek. I try to stay close to the streams and creek for water imagery. I'm also known to not exactly stick to a trail at all, and get out on the rocks of the stream. This can make carrying a tripod a little difficult at times.
@@ -62,7 +61,8 @@ My first couple of shots were with my regular tripod but eventually I tried out 
 
 The platypod really shined later on when I got up close to a tiny water fall. By tiny I mean, a foot of water and this thing would disappear, but non the less, it's what we have here, so we work with it. I went straight to the Platypod, and after about half an hour of shooting different angles and such, I noticed that I would not have been able to get that shot on a tripod without the Platypod. The rock formations would have made it difficult, if not impossible to position a tripod properly for my composition.
 
-<img src="platypod-canon5d.jpg" width="800px">
+![Platypod Pro with Canon 5D on top]({{ site.urlimg }}platypod-canon5d.jpg)
+
 <br/><br/><br/>
 ### Conclusion
 
