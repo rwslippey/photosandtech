@@ -1,23 +1,4 @@
 <h3>Respond to this</h3>
-<form action="/fake" method="post" id="commentform" class="form-horizontal">
-  <fieldset id="commentfields">
-    <input name="redirect" type="hidden" value="{{ site.url }}/thanks">
-    <input name="post_id" type="hidden" value="{{ slug }}">
-    <input name="comment-site" type="hidden" value="{{ site.url }}">
-    <textarea name="message" id="message" placeholder="Continue the discussion."></textarea>
-
-    <label for="name">Name/alias <span>(Required, displayed)</span></label>
-    <input type="text" name="name" id="name" placeholder="Name" />
-
-    <label for="email">Email <span>(Required, not shown)</span></label>
-    <input type="text" name="email" id="email" placeholder="myemail@somedomain.com" />
-
-    <label for="url">Website <span>(Optional, displayed)</span></label>
-    <input type="text" name="url" id="url" placeholder="https://mywebsite.com" />
-
-    <button onclick="setupForm()" type="button" class="btn btn-primary" id="commentbutton">Leave response</button>
-  </fieldset>
-</form>
 <script>
     function setupForm() {
       var status = document.getElementById('commentstatus')
@@ -40,10 +21,30 @@
       form.action = '{{ site.comments.receiver }}'
       button.innerText = 'Posting...'
       button.disabled = true
-      var fields = document.getElementById('commentfields')                                         
+      var fields = document.getElementById('commentfields')
       fields.disabled = true
       form.submit()
     }
   </script>
+<form action="/fake" method="post" id="commentform" class="form-horizontal">
+  <fieldset id="commentfields">
+    <input name="redirect" type="hidden" value="{{ site.url }}/thanks">
+    <input name="post_id" type="hidden" value="{{ slug }}">
+    <input name="comment-site" type="hidden" value="{{ site.url }}">
+    <textarea name="message" id="message" placeholder="Continue the discussion."></textarea>
+
+    <label for="name">Name/alias <span>(Required, displayed)</span></label>
+    <input type="text" name="name" id="name" placeholder="Name" />
+
+    <label for="email">Email <span>(Required, not shown)</span></label>
+    <input type="text" name="email" id="email" placeholder="myemail@somedomain.com" />
+
+    <label for="url">Website <span>(Optional, displayed)</span></label>
+    <input type="text" name="url" id="url" placeholder="https://mywebsite.com" />
+
+    <button onclick="setupForm()" type="button" class="btn btn-primary" id="commentbutton">Leave response</button>
+  </fieldset>
+</form>
+
 </form>
 <div id="commentstatus" style="clear:both" class="status"></div>
