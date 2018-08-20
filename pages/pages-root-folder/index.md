@@ -9,8 +9,8 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog"
-  url: 'https://rwslippey.github.io/blog/'
-  image: widget-1-302x182.jpg
+  url: '{{ site.url }}/blog'
+  image: typewriter_blog.jpg
   text: 'Checkout my Blog! Here I cover a range of topics. Recent events, tech how to articles, reviews of different products and service and, just occasionally, I ramble.'
 widget2:
   title: "Just show me the photos"
