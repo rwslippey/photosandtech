@@ -11,7 +11,7 @@ categories:
   - photography
 
 tags:
-  - photography 101
+  - photography-101
 ---
 In my last post I talked about your camera's "modes" As a reminder, they are Shutter Priority, Aperture Priority, and Manual. Well, those are the basics, and the basis for this article. One of the single best things you can do to improve your photography is learn to work in manual. By that I mean you set the shutter, aperture, and ISO. I know, we didn't talk about ISO yet, we'll get to it in this post.
 

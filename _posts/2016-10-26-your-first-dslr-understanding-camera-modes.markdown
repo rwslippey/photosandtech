@@ -11,11 +11,11 @@ ads:
   native: false
 comments: true
 categories:
-  - photography
+  - photography-101
 
 
 tags:
-  - photography 101
+  - photography-101
 
 ---
 So you've just got your nice new DSLR or Mirror-less camera? Awesome. Now it's time to get out and take some pictures, but before you do that, lets talk about those modes!

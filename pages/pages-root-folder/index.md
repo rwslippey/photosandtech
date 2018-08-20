@@ -9,17 +9,18 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog"
-  url: '{{ site.url }}/blog'
+  url: '/blog'
   image: typewriter_blog.jpg
   text: 'Checkout my Blog! Here I cover a range of topics. Recent events, tech how to articles, reviews of different products and service and, just occasionally, I ramble.'
 widget2:
   title: "Just show me the photos"
+  image: outdoors-portrait-002.jpg
   url: '/portfolio/'
   text: 'This site is not intended to be a professional portfolio, just a fun place to put my thoughts down. I will however share some images from my personal projects and just images I plan like, here. For my portfolio, checkout my business website.'
 widget3:
   title: "New to photography?"
   url: '/photography-getting-started/'
-  image: widget-github-303x182.jpg
+  image: Canon-60D-mode-dial.jpg
   text: "Checkout my series on photography 101 if you're just getting started in photography. You don't need any expensive equipment or much money at all really to make great images, just a camera and a little know how. Here I'll cover that know how to get you started on the path to making images. Plus I'll highlight some AWESOME teachers I've read and watched over the years."
 #
 # Use the call for action to show a button on the frontpage
