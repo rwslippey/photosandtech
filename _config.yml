@@ -14,7 +14,7 @@ title: 'Photos and Tech'
 slogan: 'A passion for technology and art combined.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ''
+description: "PhotosAndTech.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Affiliate programs help to support this site and encourage the creation of new content. Products I link to on this site are products I have used or have researched extensively and feel confident in the product and the product's reputation. I will never link to a product I don't trust and wouldn't purchase and use myself."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -270,3 +270,30 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+emptyArray: []
+
+comments:
+  receiver: https://photosntech.azurewebsites.net/api/PostComment
+
+authors:
+  haacked:
+    name: PhotosandTech
+    email: rwslippey@gmail.com
+    url: https://rwslippey.github.io
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: haacked
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: haacked
