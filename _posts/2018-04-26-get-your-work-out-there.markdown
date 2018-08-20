@@ -11,7 +11,6 @@ comments: true
 commenting: open
 categories:
   - photography
-tags:
 ---
 
 It took me a long time to realize that I was never going to learn or
