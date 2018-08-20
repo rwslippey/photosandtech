@@ -8,6 +8,7 @@ image:
   thumb: analogue-aperture-blur-416682.jpg
   homepage: analogue-aperture-blur-416682.jpg
 comments: true
+commenting: open
 categories:
   - photography
 
