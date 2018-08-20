@@ -1,5 +1,5 @@
 <h3>Respond to this</h3>
-<form action="/fake" data-action="{{ site.comments.receiver }}" method="post" id="commentform" class="form-horizontal comment-box">
+<form action="/fake" method="post" id="commentform" class="form-horizontal">
   <fieldset id="commentfields">
     <input name="redirect" type="hidden" value="{{ site.url }}/thanks">
     <input name="post_id" type="hidden" value="{{ slug }}">
@@ -46,5 +46,4 @@
     }
   </script>
 </form>
-<div id="commentstatus" style="clear:both" class="status"></div>
-{{ site.url }}
+<div id="commentstatus" style="clear:both" class="stat

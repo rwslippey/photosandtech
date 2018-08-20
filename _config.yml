@@ -90,7 +90,7 @@ compress_html:
   endings: all
   profile: false
   ignore:
-    envs: [production]
+    envs: [development]
 
 
 #
