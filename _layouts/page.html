@@ -44,16 +44,8 @@ format: post
 			{% endif %}
 
 			{% if page.comments == true %}
-
-			<div class="post {{ page.class }}">
-
-			  {{ page.content }}
-			  {% include comments.html %}
-			</div>
-
-
+			{% include _comments.html %}
 			{% endif %}
-
 		</article>
 	</div><!-- /.medium-8.columns -->
 

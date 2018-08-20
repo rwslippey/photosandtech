@@ -8,11 +8,11 @@ image:
   thumb: analogue-aperture-blur-416682.jpg
   homepage: analogue-aperture-blur-416682.jpg
 comments: true
-commenting: open
 categories:
   - photography
----
 
+tags:
+---
 It took me a long time to realize that I was never going to learn or
 get recognition for any of my work until I started sharing it. People need to see your work to appreciate it or enjoy it.
 
