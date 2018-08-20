@@ -1,6 +1,8 @@
 <h3>Respond to this</h3>
+
+
 <form method="POST" action="https://api.staticman.net/v2/entry/rwslippey/rwslippey.github.io/master/comments" id="commentform">
-  <input name="options[redirect]" type="hidden" value="https://rwslippey.github.io/{{ page.slug }}">
+  <input name="options[redirect]" type="hidden" value="https://rwslippey.github.io/{{ page.catgegory }}{{ page.slug }}">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
   <label><input name="fields[name]" type="text">Name</label>
