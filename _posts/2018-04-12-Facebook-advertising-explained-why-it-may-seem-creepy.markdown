@@ -3,11 +3,11 @@ layout: page
 title: Facebook Advertising Why it may seem creepy
 date: 2018-04-12
 teaser: With the recent questioning of practices by the CEO of Facebook, I’ve seen a lot of misinformation and frankly a lot of really bad understanding among its users and the public. The recent questions by congress show that some of our lawmakers just don’t understand technology and recent comments online say the same thing of users of the very platform.
-
 image:
   title: Facebook.jpeg
   thumb: Facebook.jpeg
 comments: true
+commenting: open
 tags:
   - Facebook
   - Marketing
