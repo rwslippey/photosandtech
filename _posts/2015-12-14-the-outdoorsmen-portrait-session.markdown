@@ -15,7 +15,7 @@ tags:
   - portrait photography
   - environmental portrait
 ---
-{% include disclosure.html %}
+
 I recently did an outdoor portrait session with a friend and colleague. We were discussing some outdoor water photos I had taken over the weekend at Brandywine Creek State Park when we came up with the idea of doing an environmental portrait of outdoor enthusiast doing the things that they enjoy. In his case this was fishing. I can honestly say I had a blast doing this portrait (no fish were caught in the making of these images). This is obviously not your everyday portrait session. Wading was involved, so not exactly for everyone, but it was an interesting opportunity to get out and shoot.
 
 As I said above, this was an interesting experience. I would suggest anyone attempting such a shoot come prepared. In my case, I've never had a use for waders before. In case you don't know, waders are a type of suit fishermen wear to enable them to walk or wade through water. They're sealed so water can't get in and you can walk through streams without getting wet.
